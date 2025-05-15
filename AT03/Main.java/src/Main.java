@@ -56,6 +56,7 @@ public class Main {
             }
         }
     }
+
     public static Estudante
     criarEstudante(Scanner sc) {
         System.out.println("Nome: ");
